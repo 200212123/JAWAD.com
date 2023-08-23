@@ -1,0 +1,63 @@
+header{
+
+
+                   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+                    font-size: 15px;
+                    color: blue;
+                    text-align: center;
+                    margin: 10px;
+
+}
+html{
+                    background-color:white;
+}                  
+
+
+                    .login-links button{
+                                        
+                                        background: blue;
+                                        margin:10px;
+                                        padding: 10px ;
+                                        border-radius: 12px;
+                                        color: beige;
+                                        text-align: center;
+                    }
+                    .login-links a{
+                                        text-decoration: underline;
+                                        color: blue;
+                                        margin: 10px;
+                                        font-size: 20px;
+                                        
+
+
+
+                    }
+                    .create-accont{
+                    
+
+                                        
+                                        border-radius: 12PX;
+                                        text-align: center;
+
+                    }
+                    #mm{
+                                        border: solid grey 2px;
+                                        border-radius: 12px;
+                                        padding: 15px;
+                                        margin: 10px;
+                                        
+
+                    }
+                    .login-links{
+                                        text-align: center;
+                    }
+                    
+
+
+
+
+
+
+                 
+
